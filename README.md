@@ -80,6 +80,24 @@ const newKTS = new AboutMe();
 newKTS.intro();
 ```
 
+# 🚧 Tools
+
+### <ind>Databases</ind>
+
+![Static Badge](https://img.shields.io/badge/MySQL-Data?style=flat-square&color=darkgreen&link=https%3A%2F%2Fwww.mysql.com%2F)
+![Static Badge](https://img.shields.io/badge/Microsoft%20SQL-Data?style=flat-square&color=darkorange&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)
+![Static Badge](https://img.shields.io/badge/Oracle-Data?style=flat-square&color=blue&link=https%3A%2F%2Fwww.oracle.com%2F)
+
+### <ind>Roblox Frameworks</ind>
+
+![Static Badge](https://img.shields.io/badge/Knit-Framework?style=flat-square&color=violet&link=https%3A%2F%2Fsleitnick.github.io%2FKnit%2F)
+![Static Badge](https://img.shields.io/badge/Nevermore%20Engine-Framework?style=flat-square&color=grey&link=https%3A%2F%2Fquenty.github.io%2FNevermoreEngine%2F)
+![Static Badge](https://img.shields.io/badge/Custom%20Frameworks-Framework?style=flat-square&color=darkblue)
+
+# ⛽ Top Repositories
+
+
+
 # 🏆GitHub Trophies [ Keep in mind the main account was not originally made by me ]
 ![](https://github-trophies.vercel.app/?username=kts&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
