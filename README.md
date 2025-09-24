@@ -100,7 +100,7 @@ newKTS.intro();
 
 [![Player binder](https://github-readme-stats.vercel.app/api/pin/?username=syncronicc&repo=player-binder)](https://github.com/syncronicc/player-binder)
 
-# 🏆GitHub Trophies [ Keep in mind the main account was not originally made by me ]
+# 🏆GitHub Trophies [ Github + Roblox trophy stack ]
 ![](https://github-trophies.vercel.app/?username=kts&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
