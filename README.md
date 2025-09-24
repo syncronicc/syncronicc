@@ -1,4 +1,4 @@
-### This is a new account made on 9/22/2025, the old one is [this!](https://github.com/KTSGod)
+### This is a new account made on 9/22/2025!
 
 # 🌍 About me
 
