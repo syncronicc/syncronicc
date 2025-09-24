@@ -20,9 +20,11 @@
 
 - **I have contributed to a total of ~200m+ visits within the past years.**
 
-![Static Badge](https://img.shields.io/badge/Code-LuaU-Code?style=for-the-badge&color=cyan)
-![Static Badge](https://img.shields.io/badge/Code-Python-Code?style=for-the-badge&color=orange)
-![Static Badge](https://img.shields.io/badge/Code-Roblox%E2%A0%80TS-Code?style=for-the-badge&color=darkred)
+![Static Badge](https://img.shields.io/badge/Roblox%20TS-darkred?style=flat-square)
+![Static Badge](https://img.shields.io/badge/HTML-grey?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Python-orange?style=flat-square)
+![Static Badge](https://img.shields.io/badge/LuaU-f?style=flat-square&color=cyan)
+![Static Badge](https://img.shields.io/badge/Rust-darkblue?style=flat-square&color=darkblue)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsgod&theme=vue&show_icons=true&hide_border=false&layout=compact" alt="ktsgod's GitHub Stats" />
 
