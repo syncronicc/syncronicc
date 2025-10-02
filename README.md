@@ -98,7 +98,8 @@ newKTS.intro();
 
 # ⛽ Top Repositories
 
-[![Player binder](https://github-readme-stats.vercel.app/api/pin/?username=syncronicc&repo=player-binder)](https://github.com/syncronicc/player-binder)
+[![Public Work](https://github-readme-stats.vercel.app/api/pin/?username=syncronicc&repo=Public)](https://github.com/syncronicc/Public)
+[![Private Work](https://github-readme-stats.vercel.app/api/pin/?username=syncronicc&repo=Private)](https://github.com/syncronicc/Private)
 
 # 🏆GitHub Trophies [ Github + Roblox trophy stack ]
 ![](https://github-trophies.vercel.app/?username=kts&theme=radical&no-frame=false&no-bg=false&margin-w=4)
