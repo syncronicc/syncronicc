@@ -2,6 +2,12 @@
 
 # 🌍 About me
 
+**NOTE!** The content is free to use but, I do not agree with using in a portfolio unless credits are given.
+
+Saying this because it could damage my reputation and chances of taking commissions.
+
+This portfolio can be used as a source of inspiration for other programmers.
+
 ### <ins>Biography</ins>
 
 - **I have contributed to 200m+ visits across many genres;**
