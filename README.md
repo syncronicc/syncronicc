@@ -4,7 +4,7 @@
 
 **NOTE!** The content is free to use but, I do not agree with using in a portfolio unless credits are given.
 
-Saying this because it could damage my reputation and chances of taking commissions.
+Saying this because it could damage my reputation and chances of taking commissions and my chances of being hired on a long-term collaboration.
 
 This portfolio can be used as a source of inspiration for other programmers.
 
@@ -21,6 +21,8 @@ This portfolio can be used as a source of inspiration for other programmers.
 ### <ins>Background</ins>
 
 - **As of right now im free to commision, I have a lot of technical expertise in frontend but I can be full-stack.**
+
+- **Version control and team collaborations have been one of my most perfected skill if I can call it that.**
 
 - **I am just getting started into vehicle mechanics so I wont be taking anything related to them as I am not that experienced in this area of developing.**
 
