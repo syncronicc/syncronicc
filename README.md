@@ -9,6 +9,7 @@ Saying this because it could damage my reputation and chances of taking commissi
 This portfolio can be used as a source of inspiration for other programmers.
 
 ### <ins>Biography</ins>
+<sup>**[Stuff](https://fakecrime.bio/kts)**</sup>
 
 - **I have contributed to 200m+ visits across many genres;**
 
