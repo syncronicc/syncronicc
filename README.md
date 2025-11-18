@@ -4,7 +4,7 @@
 
 **NOTE!** The content is free to use but, I do not agree with using in a portfolio unless credits are given.
 
-Saying this because it could damage my reputation and chances of taking commissions and my chances of being hired on a long-term collaboration.
+Saying this because it could damage my reputation and chances of taking commissions and my chances of being hired on a long-term collaboration. If you saw this content somewhere else, please compare the dates from the one you saw and my repo; this will confirm that I have made it as the date is older;
 
 This portfolio can be used as a source of inspiration for other programmers.
 
