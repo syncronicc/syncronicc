@@ -15,7 +15,7 @@ This portfolio can be used as a source of inspiration for other programmers.
 
 - **I am 17 [ 2008, 18 september ];**
 
-- **I work only ' remotely ', so I wont meet anyone else besides employer unless he is located in another country.**
+- **I only work remotely.**
 
 <sub>[ EU -> Romania ]</sub>
 
