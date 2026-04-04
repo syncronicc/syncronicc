@@ -35,8 +35,6 @@ This portfolio can be used as a source of inspiration for other programmers.
 ![Static Badge](https://img.shields.io/badge/LuaU-f?style=flat-square&color=cyan)
 ![Static Badge](https://img.shields.io/badge/Rust-darkblue?style=flat-square&color=darkblue)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsgod&theme=vue&show_icons=true&hide_border=false&layout=compact" alt="ktsgod's GitHub Stats" />
-
 # 📋 Snippets
 
 ### <ins>LuaU Sample</ins>
