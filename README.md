@@ -14,8 +14,6 @@ Systems: DataStore, MemoryStore, MessagingService
 
 Other: Git, CI/CD, testing frameworks.
 
- 
- 
 # Objective
 
 **My objective is to _gain practical knowledge_ by developing Roblox games and collaborating with studios and potential employers, while serving as a developer on a _full-time basis_.**
