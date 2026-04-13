@@ -1,8 +1,8 @@
 # About me
 
-I am a 17 year-old Software Engineer that specializes in Roblox Scripting ( luau / roblox-ts ) and has extensive experience in creating scalable systems and game features with more than seven years of work behind me. My projects include anticheat systems, persistent storage systems, server-side development, and game feature creation both front and back end.
+I’m a Roblox-focused software engineer experienced in building scalable game systems, including anti-cheat, data persistence, and server-side architecture.
 
-For the last two years, my main area of focus was creating whole games out of available assets in close cooperation with UI/UX designers, scripters, modelers, VFX artists, and sound designers. My primary goals are efficient architecture and code readability.
+I’ve worked with tools like Rojo, Knit, and roblox-ts to develop maintainable and performant systems across both client and server. My focus is on performance, scalability, and clean architecture in live game environments.
 
 # Skills
 
