@@ -1,19 +1,20 @@
-# About me
+# About
+Roblox developer with a few years of experience building game systems.
+Contributor to games with 100M+ combined visits.
 
-I’m a Roblox-focused software engineer experienced in building scalable game systems, including anti-cheat, data persistence, and server-side architecture.
+I care about writing clean, typed code that's easy to work with and hard to break.
+Most of my work lives on the server — data, security, architecture, but I'm
+comfortable across the full stack.
 
-I’ve worked with tools like Rojo, Knit, and roblox-ts to develop maintainable and performant systems across both client and server. My focus is on performance, scalability, and clean architecture in live game environments.
+# Skills ( including, but not limited to )
 
-# Skills
+**Languages** — Luau, roblox-ts
 
-Languages: Lua (Luau), roblox-ts.
+**Frameworks & Tools** — Rojo, Wally, Knit, Fusion, Roact, Maid, Trove
 
-Frameworks/Tools ( included, but not limited to ): Rojo, Wally, Knit, Nevermore Engine, Fusion, Rodux, Roact, Flipper, Maid, and Trove.
+**Roblox Systems** — DataStore, MemoryStore, MessagingService
 
-Systems: DataStore, MemoryStore, MessagingService
-
-Other: Git, CI/CD, testing frameworks.
+**Other** — Git, CI/CD
 
 # Objective
-
-**My objective is to _gain practical knowledge_ by developing Roblox games and collaborating with studios and potential employers, while serving as a developer on a _full-time basis_.**
+Looking for a full-time role where I can build things that ship and matter.
