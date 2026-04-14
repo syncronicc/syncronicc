@@ -16,5 +16,7 @@ comfortable across the full stack.
 
 **Other** — Git, CI/CD
 
-# Objective
-Currently exploring internship and junior opportunities…
+# Reach out
+
+Gmail: syncronicc1@gmail.com
+Discord: @ktsgud
