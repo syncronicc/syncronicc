@@ -1,5 +1,5 @@
-# About
-Roblox developer with experience building game systems.
+# Hello! 🔥
+I am a Roblox Engineer with experience building game systems.
 Contributor to games with 100M+ combined visits.
 
 I care about writing clean, typed code that's easy to work with and hard to break.
