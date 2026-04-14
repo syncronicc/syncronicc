@@ -1,12 +1,12 @@
 # About
-Roblox developer with a few years of experience building game systems.
+Roblox developer with experience building game systems.
 Contributor to games with 100M+ combined visits.
 
 I care about writing clean, typed code that's easy to work with and hard to break.
-Most of my work lives on the server — data, security, architecture, but I'm
+Most of my work lives on the server data, security, architecture, but I'm
 comfortable across the full stack.
 
-# Skills ( including, but not limited to )
+# Skills
 
 **Languages** — Luau, roblox-ts
 
@@ -17,4 +17,4 @@ comfortable across the full stack.
 **Other** — Git, CI/CD
 
 # Objective
-Looking for a full-time role where I can build things that ship and matter.
+Currently exploring internship and junior opportunities…
