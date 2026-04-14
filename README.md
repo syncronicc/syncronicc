@@ -6,7 +6,7 @@ I care about writing clean, typed code that's easy to work with and hard to brea
 Most of my work lives on the server data, security, architecture, but I'm
 comfortable across the full stack.
 
-# Skills
+# Tech Stack 🛠️
 
 **Languages** — Luau, roblox-ts
 
@@ -16,6 +16,6 @@ comfortable across the full stack.
 
 **Other** — Git, CI/CD
 
-# Reach out
+# Reach out 📩 
 
 Gmail: syncronicc1@gmail.com | Discord: @ktsgud
