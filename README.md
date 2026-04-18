@@ -3,7 +3,7 @@ I am a Roblox Engineer with experience building game systems.
 Contributor to games with 100M+ combined visits.
 
 I care about writing clean, typed code that's easy to work with and hard to break.
-Most of my work lives on the server data, security, architecture, but I'm
+Most of my work lives on the server data, security and frontend, architecture, but I'm
 comfortable across the full stack.
 
 # Tech Stack 🛠️
