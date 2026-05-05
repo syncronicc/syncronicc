@@ -8,7 +8,7 @@ comfortable across the full stack.
 
 # Tech Stack 🛠️
 
-**Languages** — Luau, roblox-ts, C, C++
+**Languages** — Luau, roblox-ts, C, C++, Python
 
 **Analytics** - Amplitude, Tableau, Firebase analytics and Metabase ( + strong usage experience with roblox's default analytics aswell )
 
