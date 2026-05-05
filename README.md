@@ -20,4 +20,4 @@ comfortable across the full stack.
 
 # Reach out 📩 
 
-Gmail: syncronicc1@gmail.com | Discord: @ktsgud
+Gmail: syncronicc1@gmail.com | Discord: @kts_god.
